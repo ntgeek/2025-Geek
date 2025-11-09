@@ -1,4 +1,4 @@
-# Git学习
+# git-by 邓函璐.md
 > 邓函璐
 
 ## 学习背景
@@ -26,4 +26,5 @@ Git Bash操作比较复杂，本人不是很习惯。
 2. [Google](http://www.Google.com)
 3. [DeepSeek](https://www.deepseek.com/)
 4. [廖雪峰的 Git 教程](https://www.liaoxuefeng.com/wiki/896043488029600)
+
 5. [给傻子的Git教程_](https://www.bilibili.com/video/BV1Hkr7YYEh8/?spm_id_from=333.1387.favlist.content.click&vd_source=2e665bb499620ff7c35d9d551c1ca19e)
